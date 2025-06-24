@@ -16,15 +16,15 @@
             "Traefik"
         ],
         "image": [
-            "/gitlab-ci-cd.png",
-            "/gitlab.webp",
-            "/runner.png",
-            "/docker.webp",
-            "/bash.png",
-            "/registry.png",
-            "/vault.svg",
-            "/sonar.svg",
-            "/traefik.png"
+            "https://raw.githubusercontent.com/JinitD/code-parce-res/refs/heads/main/cv/frameworks/gitlab-ci-cd.png",
+            "https://raw.githubusercontent.com/JinitD/code-parce-res/refs/heads/main/cv/frameworks/gitlab.webp",
+            "https://raw.githubusercontent.com/JinitD/code-parce-res/refs/heads/main/cv/frameworks/runner.png",
+            "https://raw.githubusercontent.com/JinitD/code-parce-res/refs/heads/main/cv/frameworks/docker.webp",
+            "https://raw.githubusercontent.com/JinitD/code-parce-res/refs/heads/main/cv/frameworks/bash.png",
+            "https://raw.githubusercontent.com/JinitD/code-parce-res/refs/heads/main/cv/frameworks/registry.png",
+            "https://raw.githubusercontent.com/JinitD/code-parce-res/refs/heads/main/cv/frameworks/vault.svg",
+            "https://raw.githubusercontent.com/JinitD/code-parce-res/refs/heads/main/cv/frameworks/sonar.svg",
+            "https://raw.githubusercontent.com/JinitD/code-parce-res/refs/heads/main/cv/frameworks/traefik.png"
         ]
     },
     {
