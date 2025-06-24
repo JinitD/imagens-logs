@@ -32,13 +32,26 @@
         "empresa": "Telconet",
         "descripcion": "Responsable de pruebas funcionales y no funcionales, garantizando la calidad del software antes de su puesta en producción.",
         "tecnologias": [
-            "PLSQL",
+            "PL/SQL",
             "Katalon",
             "Postman",
             "JMeter",
             "TestRail",
             "GitLab CI/CD",
+            "Mongo DB",
+            "Redis",
             "Postgres"
+        ],
+           "image": [
+            "https://raw.githubusercontent.com/JinitD/code-parce-res/refs/heads/main/cv/frameworks/gitlab-ci-cd.png",
+            "https://raw.githubusercontent.com/JinitD/code-parce-res/refs/heads/main/cv/frameworks/mongo.webp",
+            "https://raw.githubusercontent.com/JinitD/code-parce-res/refs/heads/main/cv/frameworks/plsql.webp",
+            "https://raw.githubusercontent.com/JinitD/code-parce-res/refs/heads/main/cv/frameworks/postgresql.png",
+            "https://raw.githubusercontent.com/JinitD/code-parce-res/refs/heads/main/cv/frameworks/testrail.png",
+            "https://raw.githubusercontent.com/JinitD/code-parce-res/refs/heads/main/cv/frameworks/redis.png",
+            "https://raw.githubusercontent.com/JinitD/code-parce-res/refs/heads/main/cv/frameworks/postman.webp",
+            "https://raw.githubusercontent.com/JinitD/code-parce-res/refs/heads/main/cv/frameworks/jmeter.svg",
+            "https://raw.githubusercontent.com/JinitD/code-parce-res/refs/heads/main/cv/frameworks/mongo.webp"
         ]
     },
     {
@@ -53,6 +66,17 @@
             "Postman",
             "JMeter",
             "Postgres"
+        ],
+           "image": [
+            "https://raw.githubusercontent.com/JinitD/code-parce-res/refs/heads/main/cv/frameworks/gitlab.webp",
+            "https://raw.githubusercontent.com/JinitD/code-parce-res/refs/heads/main/cv/frameworks/pw.png",
+            "https://raw.githubusercontent.com/JinitD/code-parce-res/refs/heads/main/cv/frameworks/plsql.webp",
+            "https://raw.githubusercontent.com/JinitD/code-parce-res/refs/heads/main/cv/frameworks/postgresql.png",
+            "https://raw.githubusercontent.com/JinitD/code-parce-res/refs/heads/main/cv/frameworks/cucumber.jpeg",
+            "https://raw.githubusercontent.com/JinitD/code-parce-res/refs/heads/main/cv/frameworks/redis.png",
+            "https://raw.githubusercontent.com/JinitD/code-parce-res/refs/heads/main/cv/frameworks/postman.webp",
+            "https://raw.githubusercontent.com/JinitD/code-parce-res/refs/heads/main/cv/frameworks/jmeter.svg",
+            "https://raw.githubusercontent.com/JinitD/code-parce-res/refs/heads/main/cv/frameworks/cy.webp"
         ]
     },
     {
@@ -67,6 +91,13 @@
             "ShadCN",
             "Angular",
             "Angular Material"
+        ],
+           "image": [
+            "https://raw.githubusercontent.com/JinitD/code-parce-res/refs/heads/main/cv/frameworks/react.png",
+            "https://raw.githubusercontent.com/JinitD/code-parce-res/refs/heads/main/cv/frameworks/webpack.png",
+            "https://raw.githubusercontent.com/JinitD/code-parce-res/refs/heads/main/cv/frameworks/vite.png",
+            "https://raw.githubusercontent.com/JinitD/code-parce-res/refs/heads/main/cv/frameworks/tl.png",
+            "https://raw.githubusercontent.com/JinitD/code-parce-res/refs/heads/main/cv/frameworks/angular.png"
         ]
     },
     {
@@ -79,6 +110,13 @@
             "TypeScript",
             "API Gateway",
             "CloudWatch"
+        ],
+           "image": [
+            "https://raw.githubusercontent.com/JinitD/code-parce-res/refs/heads/main/cv/frameworks/lambda.png",
+            "https://raw.githubusercontent.com/JinitD/code-parce-res/refs/heads/main/cv/frameworks/ag.png",
+            "https://raw.githubusercontent.com/JinitD/code-parce-res/refs/heads/main/cv/frameworks/cw.png",
+            "https://raw.githubusercontent.com/JinitD/code-parce-res/refs/heads/main/cv/frameworks/cdk.png",         "https://raw.githubusercontent.com/JinitD/code-parce-res/refs/heads/main/cv/frameworks/ts.svg",
+            "https://raw.githubusercontent.com/JinitD/code-parce-res/refs/heads/main/cv/frameworks/aws.png"
         ]
     }
 ]
