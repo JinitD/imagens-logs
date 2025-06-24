@@ -1,0 +1,84 @@
+[
+    {
+        "titulo": "Implementación de CI/CD a la empresa",
+        "empresa": "Sudamericana de Software",
+        "descripcion": "Diseño e implementación de pipelines de integración y entrega continua para automatizar el ciclo de vida del desarrollo.",
+        "tecnologias": [
+            "GitLab CI/CD",
+            "GitLab Runner",
+            "Docker",
+            "Docker Compose",
+            "Docker Swarm",
+            "Bash",
+            "Docker registry",
+            "Vault",
+            "SonarQube",
+            "Traefik"
+        ],
+        "image": [
+            "/gitlab-ci-cd.png",
+            "/gitlab.webp",
+            "/runner.png",
+            "/docker.webp",
+            "/bash.png",
+            "/registry.png",
+            "/vault.svg",
+            "/sonar.svg",
+            "/traefik.png"
+        ]
+    },
+    {
+        "titulo": "Asegurador de calidad en proyectos (QA)",
+        "empresa": "Telconet",
+        "descripcion": "Responsable de pruebas funcionales y no funcionales, garantizando la calidad del software antes de su puesta en producción.",
+        "tecnologias": [
+            "PLSQL",
+            "Katalon",
+            "Postman",
+            "JMeter",
+            "TestRail",
+            "GitLab CI/CD",
+            "Postgres"
+        ]
+    },
+    {
+        "titulo": "Asegurador de calidad en proyectos (QA)",
+        "empresa": "Sudamericana de Software",
+        "descripcion": "Ejecución de pruebas automatizadas y manuales para validar funcionalidades en diferentes desarrollos internos.",
+        "tecnologias": [
+            "Cypress",
+            "Playwright",
+            "Cucumber",
+            "GitLab",
+            "Postman",
+            "JMeter",
+            "Postgres"
+        ]
+    },
+    {
+        "titulo": "Desarrollador front-end en SASF",
+        "empresa": "Sudamericana de Software",
+        "descripcion": "Desarrollo y mantenimiento de interfaces de usuario modernas y responsivas para aplicaciones empresariales.",
+        "tecnologias": [
+            "React",
+            "Webpack",
+            "Vite",
+            "Tailwind CSS",
+            "ShadCN",
+            "Angular",
+            "Angular Material"
+        ]
+    },
+    {
+        "titulo": "Desarrollo de API con AWS CDK ",
+        "empresa":"Banco Bolivariano",
+        "descripcion": "Implementación de funciones serverless para automatizar procesos de consulta internos del banco usando AWS CDK",
+        "tecnologias": [
+            "AWS Lambda",
+            "AWS CDK",
+            "TypeScript",
+            "API Gateway",
+            "CloudWatch"
+        ]
+    }
+]

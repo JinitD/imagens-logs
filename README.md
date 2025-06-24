@@ -1,2 +1,3 @@
 # imagens-logs
-Fotos, imágenes y logos.
+Recursos varios proyectos
+ 
